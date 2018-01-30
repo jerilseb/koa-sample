@@ -1,5 +1,7 @@
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jerilseb/solution.svg)](https://greenkeeper.io/)
+
 Start the server by running
 
     npm install && npm start
